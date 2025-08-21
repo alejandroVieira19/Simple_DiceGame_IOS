@@ -1,0 +1,29 @@
+# Xcode
+DerivedData/
+build/
+*.xcworkspace
+!default.xcworkspace
+
+# User settings
+*.xcuserstate
+*.xcuserdata
+
+# Swift Package Manager
+/.build/
+Packages/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Xcode Server
+.xcscmblueprint
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
